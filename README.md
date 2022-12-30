@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Kulkarni</h1>
 <h3 align="center">A passionate Data Analyst & Database Administrator from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F724446290056197700%2F&psig=AOvVaw2rU6zXmwgOnWhECm6StLWx&ust=1672491493091000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMi-1L2yofwCFQAAAAAdAAAAABAP">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkulkarni-dev&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkulkarni-dev" /> </p>
 
