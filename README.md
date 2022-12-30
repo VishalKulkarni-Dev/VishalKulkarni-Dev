@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 💬 Ask me about **Android , Sql Server, Python**
+- 💬 Ask me about **MySQL, SQL Server, DBMS, Python**
 
 - 📫 How to reach me **kulkarnivishal907@gmail.com**
 
